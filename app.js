@@ -120,6 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
               "portfolioLink": "https://google.com",
               "imageLink": "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
             }
+        ]
     ];
 
     people.forEach(person => {
