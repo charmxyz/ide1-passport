@@ -442,7 +442,97 @@ document.addEventListener('DOMContentLoaded', () => {
                           needHelp: "Recommendations and woodworking",
                           portfolioLink: "https://google.com",
                           imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
-                        }                                     
+                        },
+                            {
+                              name: "Rachel (Xingyue) Lin",
+                              spiritAnimal: "Whale",
+                              threeTopic: "Whales, travel, outdoors, architecture",
+                              excitedThings: "Exploring the local area",
+                              needHelp: "Understanding the course and getting to know people",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Mingkun Hong",
+                              spiritAnimal: "Dog - ENFP and a ball of sunshine",
+                              threeTopic: "Opera, Movies, Food and cooking",
+                              excitedThings: "Musicals in London!",
+                              needHelp: "Cooking",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Francesca De Coppi",
+                              spiritAnimal: "Eagle",
+                              threeTopic: "Fashion, interior design, piezoelectric materials",
+                              excitedThings: "Making the most of all the opportunities in the course",
+                              needHelp: "Time management",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Rikke Geelen",
+                              spiritAnimal: "Dolphin",
+                              threeTopic: "SDGs, food, the future",
+                              excitedThings: "Back in London",
+                              needHelp: "Coding",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Juwon Jung",
+                              spiritAnimal: "Hybrid turtle | fox",
+                              threeTopic: "AI, people’s personal stories, philosophical concerns",
+                              excitedThings: "Being an Imperial student!!",
+                              needHelp: "Inspiration!!",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Louis Brouwer",
+                              spiritAnimal: "Brown Bear",
+                              threeTopic: "Med tech, Design Theory, Surfing",
+                              excitedThings: "Getting to meet everyone. Making new friends.",
+                              needHelp: "Date spots in London.",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Paul Nelson Morat",
+                              spiritAnimal: "Dachshund",
+                              threeTopic: "Music, Art, food",
+                              excitedThings: "Franz Kafka",
+                              needHelp: "Recommendations, woodworking",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Ella Morgan",
+                              spiritAnimal: "Dolphin",
+                              threeTopic: "Cheerleading, travel, my cats",
+                              excitedThings: "New opportunities",
+                              needHelp: "CAD",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Anoushka Sawardekar",
+                              spiritAnimal: "Cat",
+                              threeTopic: "Mystery books, Anime, Art",
+                              excitedThings: "Living on my own and exploring London",
+                              needHelp: "Getting a research assistantship",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              name: "Nick Berry",
+                              spiritAnimal: "Soth",
+                              threeTopic: "Mythology, films and art",
+                              excitedThings: "Many people",
+                              needHelp: "Electrical Circuit",
+                              portfolioLink: "https://google.com",
+                              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            }                                                               
     ];
 
     people.forEach(person => {
