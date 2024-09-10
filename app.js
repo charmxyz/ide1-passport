@@ -253,7 +253,97 @@ document.addEventListener('DOMContentLoaded', () => {
                   needHelp: "3D modelling",
                   portfolioLink: "https://google.com",
                   imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
-                }
+                },
+                    {
+                      name: "Zheng Fuze",
+                      spiritAnimal: "Black Cat",
+                      threeTopic: "The Future, Speculation and Management ✨",
+                      excitedThings: "Wood Workshop and Lazer Cutting",
+                      needHelp: "Language: it would help if people speak slowly and take time for me to think about what I want to say.",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Lily",
+                      spiritAnimal: "Black Cat",
+                      threeTopic: "Reality show, strategy game, world",
+                      excitedThings: "Being here!!",
+                      needHelp: "English language",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Hanming Xu",
+                      spiritAnimal: "Cat",
+                      threeTopic: "Travelling, technology, consumer gadget",
+                      excitedThings: "Joining IDE",
+                      needHelp: "Schedule things",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Vamsi Madhav Tata",
+                      spiritAnimal: "Ant",
+                      threeTopic: "Literature, Yoga/meditation, Gaming",
+                      excitedThings: "Starting IDE",
+                      needHelp: "Nope",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Yu Gan",
+                      spiritAnimal: "Pig",
+                      threeTopic: "Birds, dog, cat",
+                      excitedThings: "Get my ID card",
+                      needHelp: "Tired",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Zhe Zhang",
+                      spiritAnimal: "Parrot",
+                      threeTopic: "Diving, counter strike (game), robots",
+                      excitedThings: "Doing outdoor activities",
+                      needHelp: "Knowing more about the culture/history/museums in London",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Michael Jones",
+                      spiritAnimal: "Stag deer 🦌",
+                      threeTopic: "Adventure, travel, bikes!",
+                      excitedThings: "Setting up a club for trail runners in London!",
+                      needHelp: "Programming, learning to code.",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Lucinda Tam",
+                      spiritAnimal: "King penguin",
+                      threeTopic: "Food, agriculture, birds",
+                      excitedThings: "Using workshops, start box room project",
+                      needHelp: "Experience w user centered design",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Yuki Abe",
+                      spiritAnimal: "Scorpio",
+                      threeTopic: "Triathlon, surfing, Japan",
+                      excitedThings: "IDE, meeting new friends, expanding skill sets",
+                      needHelp: "English",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    },
+                    {
+                      name: "Aleisha Jethwa",
+                      spiritAnimal: "Bear",
+                      threeTopic: "Music, Consciousness",
+                      excitedThings: "Being in IDE! Excited about things to learn",
+                      needHelp: "Programming, general engineering skills",
+                      portfolioLink: "https://google.com",
+                      imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                    }                  
     ];
 
     people.forEach(person => {
