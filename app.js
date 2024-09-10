@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
               excitedThings: "Social and networking",
               needHelp: "Programme structure and content",
               portfolioLink: "https://google.com",
-              imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+              imageLink: "https://drive.google.com/file/d/1V2z7AOqrHGFlBdttKoOenJw_aUhp-l0T/view"
             },
             {
               "name": "Yuyi Yang",
