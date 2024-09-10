@@ -118,7 +118,142 @@ document.addEventListener('DOMContentLoaded', () => {
               "needHelp": "Work/life balance",
               "portfolioLink": "https://google.com",
               "imageLink": "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
-            }
+            },
+                {
+                  name: "Isaac Igbokwe",
+                  spiritAnimal: "Elephant",
+                  threeTopic: "Psychology, Business, Fashion",
+                  excitedThings: "Simple yet impressive Impact Innovations with tangible benefits for people & planet",
+                  needHelp: "Organisation routine / template",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Tian Mai",
+                  spiritAnimal: "Cat",
+                  threeTopic: "Technology, video games, photography",
+                  excitedThings: "The London challenge tomorrow!",
+                  needHelp: "Hand sketching",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Yuzhen Fu",
+                  spiritAnimal: "Tiger",
+                  threeTopic: "Sports, film, music",
+                  excitedThings: "Pushing boundaries as an introvert",
+                  needHelp: "English speaking and hearing",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Will Harris",
+                  spiritAnimal: "Lemur",
+                  threeTopic: "Biology, photography, architecture",
+                  excitedThings: "Grand challenge",
+                  needHelp: "Mechanics/Robotics",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Yukta Pathak",
+                  spiritAnimal: "Owl",
+                  threeTopic: "Netflix, sustainability, religious philosophy",
+                  excitedThings: "Exploring London and living on my own",
+                  needHelp: "Events happening in and around the area (London)",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Moin Mohammed Mulla",
+                  spiritAnimal: "Lion",
+                  threeTopic: "Gym, apple, mental health",
+                  excitedThings: "Being here",
+                  needHelp: "Improving coding skills",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Zayna Ahmed",
+                  spiritAnimal: "Raccoon",
+                  threeTopic: "Music, fun fact, languages",
+                  excitedThings: "New people",
+                  needHelp: "Time management",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Antoine Mehdi Eladib",
+                  spiritAnimal: "Martin bird",
+                  threeTopic: "Photography, music events, ceramics",
+                  excitedThings: "Movie nights and IDE projects",
+                  needHelp: "Coding, finding a job and physical prototyping",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Yacob Wilfred Sitorus",
+                  spiritAnimal: "Wolf",
+                  threeTopic: "Film, fashion, people's personal history",
+                  excitedThings: "Moving here and starting IDE / Moby's concert",
+                  needHelp: "Brushing up technical skills for IDE",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Gruffydd Gozali",
+                  spiritAnimal: "Mountain goat",
+                  threeTopic: "Books (fiction and non fiction), Startups, Film and art",
+                  excitedThings: "Geoengineering",
+                  needHelp: "Hmm… programming",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Jubilee Tai",
+                  spiritAnimal: "Salmon",
+                  threeTopic: "Muaythai, people’s personal history, fashion",
+                  excitedThings: "Personal maturity and growth",
+                  needHelp: "Getting around campus / feeling confident enough about the technical skills",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Edward White",
+                  spiritAnimal: "Stoat",
+                  threeTopic: "Music, Films, Anime & Manga",
+                  excitedThings: "Tomorrow, for the project group allocation",
+                  needHelp: "Getting on with learning new software and going through with it (e.g. Unreal).",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Calvin Calica",
+                  spiritAnimal: "Turtle",
+                  threeTopic: "Music (ambient music), Movies (lost in translation), Design material research",
+                  excitedThings: "Cyber physical systems",
+                  needHelp: "Guidance and advice on how to navigate IDE",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Tong Zhang",
+                  spiritAnimal: "Dog",
+                  threeTopic: "Consuming Electronics, rocket, 3D printing",
+                  excitedThings: "IDE",
+                  needHelp: "Socializing",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                },
+                {
+                  name: "Cheng Xin Zhao",
+                  spiritAnimal: "Hamster",
+                  threeTopic: "Academic background, music, movies, the future",
+                  excitedThings: "New environment and making friends",
+                  needHelp: "3D modelling",
+                  portfolioLink: "https://google.com",
+                  imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                }
     ];
 
     people.forEach(person => {
