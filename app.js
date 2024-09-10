@@ -3,10 +3,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const people = [
         {
-            name: "Your Name",
+            name: "John Doe",
             spiritAnimal: "Dragon",
             threeTopic: "Football, Technology, and Startups",
-            excitedThings: "I'm excited to learn more about the startup world and meet new people. I'm also excited to work on a project that can make a positive impact on society.",
+            excitedThings: "I'm excited to learn more in this course and meet new people.",
             needHelp: "London accommodation, I'm moving to London next month and I'm looking for a place to stay. I'm also looking for a mentor who can guide me in my career.",
             portfolioLink: "https://bit.ly/saffanportfolio",
             imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg",
