@@ -343,7 +343,106 @@ document.addEventListener('DOMContentLoaded', () => {
                       needHelp: "Programming, general engineering skills",
                       portfolioLink: "https://google.com",
                       imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
-                    }                  
+                    },
+                        {
+                          name: "Nefeli Vitoraki",
+                          spiritAnimal: "Otter",
+                          threeTopic: "Ceramics, furniture, colour",
+                          excitedThings: "Meeting new people",
+                          needHelp: "Coding",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Anna Savel",
+                          spiritAnimal: "A bird",
+                          threeTopic: "History, Design and Sport",
+                          excitedThings: "Getting started working on projects",
+                          needHelp: "Engineering + Making aspect of things",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Lisa Nana",
+                          spiritAnimal: "Lion",
+                          threeTopic: "Hair, Fashion, Maths",
+                          excitedThings: "Starting to work on projects",
+                          needHelp: "How to navigate the innovation process",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Ioannis Papidakis",
+                          spiritAnimal: "Wolf",
+                          threeTopic: "Inventions, robotics, automation",
+                          excitedThings: "Opportunities (personal, professional, academic, entrepreneurial)",
+                          needHelp: "Design",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Duy Huynh",
+                          spiritAnimal: "Black cat",
+                          threeTopic: "Boxing, manufacturing technology, craft beers",
+                          excitedThings: "Do induction so I can access the labs",
+                          needHelp: "Coding",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Shira Sonigo",
+                          spiritAnimal: "Snail",
+                          threeTopic: "Health and nutrition, economy, Art",
+                          excitedThings: "Curious on how the learning experience",
+                          needHelp: "Food recommendations",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Jacob Samuel Krakowian Adams",
+                          spiritAnimal: "Fox",
+                          threeTopic: "Cooking, flag American football, Travelling",
+                          excitedThings: "Trying to make new food",
+                          needHelp: "Need some help with dyeing stuff",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Martha Pryke",
+                          spiritAnimal: "Beaver",
+                          threeTopic: "Politics, Art, the sea",
+                          excitedThings: "Change. The unknown. Realising possibilities.",
+                          needHelp: "Coding. Robotics.",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Carrie Rong",
+                          spiritAnimal: "Dog - Energy!",
+                          threeTopic: "Consciousness, Grocery stores",
+                          excitedThings: "London Design week!",
+                          needHelp: "Finding a flat!",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Greg Hargraves",
+                          spiritAnimal: "Owl",
+                          threeTopic: "Engineering, music, film",
+                          excitedThings: "Learning",
+                          needHelp: "Cooking",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        },
+                        {
+                          name: "Zac Miller-Waugh",
+                          spiritAnimal: "Kea",
+                          threeTopic: "Photography, Books: Speculative Fiction, Boardgames",
+                          excitedThings: "Collaboration in projects!",
+                          needHelp: "Recommendations and woodworking",
+                          portfolioLink: "https://google.com",
+                          imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                        }                                     
     ];
 
     people.forEach(person => {
