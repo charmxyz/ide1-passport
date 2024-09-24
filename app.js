@@ -532,6 +532,20 @@ document.addEventListener('DOMContentLoaded', () => {
                               needHelp: "Electrical Circuit",
                               portfolioLink: "https://google.com",
                               imageLink: "https://t3.ftcdn.net/jpg/06/19/26/46/360_F_619264680_x2PBdGLF54sFe7kTBtAvZnPyXgvaRw0Y.jpg"
+                            },
+                            {
+                              "name": "Henry Drayton",
+                              "spiritAnimal": "Seal",
+                              "threeTopic": "Sculpture, Surfing, Nature Biology",
+                              "excitedThings": "Getting to create!",
+                              "needHelp": "IT emails information all that jazzz"
+                            },
+                            {
+                              "name": "William Napier",
+                              "spiritAnimal": "Cougar",
+                              "threeTopic": "US politics, AI, Fine Arts",
+                              "excitedThings": "Excited to be in London",
+                              "needHelp": "Access to labs"
                             }                                                               
     ];
 
