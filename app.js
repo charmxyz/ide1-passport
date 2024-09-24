@@ -554,9 +554,6 @@ document.addEventListener('DOMContentLoaded', () => {
         card.className = 'card';
     
         card.innerHTML = `
-            <div class="person-image">
-                <img src="${person.imageLink}" alt="${person.name}" class="profile-image">
-            </div>
     
             <div class="name">${person.name}</div>
 
